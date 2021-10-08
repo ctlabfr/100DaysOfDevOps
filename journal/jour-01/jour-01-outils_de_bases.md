@@ -14,10 +14,6 @@
 - Pouvoir versionner ce code => git
 - Pouvoir monter des environnements de test sur mon poste de travail pour certaines technos (docker, kubernetes,... ) qui ne nécessite pas d'utiliser un fournisseur de Cloud => virtualbox
 
-## Recherche
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
 ## EN PRATIQUE
 
@@ -52,6 +48,7 @@
 
  
 - Suivre le processus d'installation spécifique à votre OS.
+
 ![Capture d'écran - Installation Git - etape 0](medias/git_installation-etape-00.png)
 ![Capture d'écran - Installation Git - etape 1](medias/git_installation-etape-01.png)
 ![Capture d'écran - Installation Git - etape 2](medias/git_installation-etape-02.png)
@@ -85,6 +82,25 @@ git config --global user.email "hello@ctlab.Fr"
 > git init
 ```
 
+### Lister le repo distant
+```bash
+> git remote -v
+```
+
+### Ajouter un repo distant
+```bash
+> git remote add origin https://github.com/ctlabfr/100DaysOfDevOps.git
+```
+- dans la commande ci-dessus
+    - origin est le nom court que l'on associe sur notre poste au repo distant 
+    - ce nom court pourra être utilisé ultérieurement dans les commandes git
+
+### Pousser le contenu sur le repo distant
+```bash
+> git branch -M main
+> git push -u origin main
+```
+
 
 
 ## Virtualbox
@@ -97,6 +113,7 @@ git config --global user.email "hello@ctlab.Fr"
 
  
 - Suivre le processus d'installation spécifique à votre OS.
+
 ![Capture d'écran - Installation Virtualbox - etape 0](medias/virtualbox_installation-etape-00.png)
 ![Capture d'écran - Installation Virtualbox - etape 1](medias/virtualbox_installation-etape-01.png)
 ![Capture d'écran - Installation Virtualbox - etape 2](medias/virtualbox_installation-etape-02.png)
