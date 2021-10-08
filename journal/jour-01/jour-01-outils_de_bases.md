@@ -25,9 +25,11 @@
 
 - Se rendre sur https://code.visualstudio.com/
 - Choisir le package relatif à son système d'exploitation *(pour ma part j'utilise Windows)*
+
 ![Capture d'écran code.visualstudio.com](medias/site_vscode_download.png)
 
 - Suivre le processus d'installation
+
 ![Capture d'écran - Installation VSCode - etape 0](medias/vscode_installation-etape-00.png)
 ![Capture d'écran - Installation VSCode - etape 1](medias/vscode_installation-etape-01.png)
 ![Capture d'écran - Installation VSCode - etape 2](medias/vscode_installation-etape-02.png)
@@ -44,6 +46,7 @@
 
 - Se rendre sur https://git-scm.com/downloads
 - Choisir le package relatif à son système d'exploitation *(Pour ma part j'utilise Windows)*
+
 ![Capture d'écran git-scm.com](medias/site_git-scm_download.png)
 
  
