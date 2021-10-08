@@ -137,11 +137,8 @@ git config --global user.email "hello@ctlab.Fr"
 
 - Définir un plan de route pour les 99 prochains jours
 
-</br>
----
-</br>
 
 
 ## Preuve Sociale
 
-[@ctlabfr / 100daysofdevops - Jour 1]()
+[@ctlabfr / 100daysofdevops - Jour 1](https://twitter.com/ctlabfr/status/1446522107609980938)
