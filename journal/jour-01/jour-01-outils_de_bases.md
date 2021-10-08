@@ -124,7 +124,6 @@ git config --global user.email "hello@ctlab.Fr"
 ![Capture d'écran - Installation Virtualbox - etape 4](medias/virtualbox_installation-etape-04.png)
 ![Capture d'écran - Installation Virtualbox - etape 5](medias/virtualbox_installation-etape-05.png)
 ![Capture d'écran - Installation Virtualbox - etape 6](medias/virtualbox_installation-etape-06.png)
-![Capture d'écran - Installation Virtualbox - etape 7](medias/virtualbox_installation-etape-07.png)
 
 
 
