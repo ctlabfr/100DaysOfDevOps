@@ -1,7 +1,7 @@
 **Ajouter une photo de couverture:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# [Jour 1/100] Titre de l'article
+# [Jour 1 / #100DaysOfDevOps] Titre de l'article
 
 ## Introduction
 
