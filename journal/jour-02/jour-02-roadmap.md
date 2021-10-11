@@ -1,4 +1,5 @@
 ![Photo de Leah Kelley provenant de Pexels](medias/pexels-leah-kelley-3935702.png)
+
 *Crédit: [Photo de Leah Kelley provenant de Pexels](https://www.pexels.com/fr-fr/photo/femme-regardant-la-carte-3935702)*
 
 # [Jour 2 / #100DaysOfDevOps] Roadmap
@@ -107,5 +108,5 @@
 
 ## PREUVE SOCIALE
 
-[@ctlabfr - Jour 2 / #100daysofdevops](link)
+[@ctlabfr - Jour 2 / #100DaysOfDevops](https://twitter.com/ctlabfr/status/1447583173223796736)
 
